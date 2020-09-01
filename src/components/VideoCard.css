@@ -3,7 +3,9 @@
   width: 500px;
   height: 400px;
   padding: 20px;
+  cursor: pointer;
   transition: transform 100ms;
+  box-shadow: 3px 3px 5px rgba(15, 56, 47, 0.1);
 }
 .videoCard:hover {
   transform: scale(1.1);
@@ -12,6 +14,7 @@
   height: 300px;
   object-fit: contain;
   width: 500px;
+  border-radius: 40px;
 }
 .videoCard > h2 {
   padding-top: 10px;
@@ -21,4 +24,11 @@
 }
 .videoCard:hover > .videoCard__stats {
   display: inline;
+  display: flex;
+  align-items: center;
+  padding-right: 10px;
+}
+.videoCard__stats > .MuiSvgIcon-root {
+  padding-left: 10px;
+  padding-right: 10px;
 }
