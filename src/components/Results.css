@@ -1,5 +1,6 @@
-.results {
+.results > div {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
 }
+/* here react-flip-move add extra div inside it so we shld target it otherwise the cards will be in row though we display it in flex */
