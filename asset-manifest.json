@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Hulu-Bharath/static/css/main.30edf3b1.chunk.css",
+    "main.js": "/Hulu-Bharath/static/js/main.f79c65a5.chunk.js",
+    "main.js.map": "/Hulu-Bharath/static/js/main.f79c65a5.chunk.js.map",
+    "runtime-main.js": "/Hulu-Bharath/static/js/runtime-main.992440af.js",
+    "runtime-main.js.map": "/Hulu-Bharath/static/js/runtime-main.992440af.js.map",
+    "static/js/2.8b9e511e.chunk.js": "/Hulu-Bharath/static/js/2.8b9e511e.chunk.js",
+    "static/js/2.8b9e511e.chunk.js.map": "/Hulu-Bharath/static/js/2.8b9e511e.chunk.js.map",
+    "index.html": "/Hulu-Bharath/index.html",
+    "precache-manifest.4d7595e01c939833bbd7537cd4f9fcbe.js": "/Hulu-Bharath/precache-manifest.4d7595e01c939833bbd7537cd4f9fcbe.js",
+    "service-worker.js": "/Hulu-Bharath/service-worker.js",
+    "static/css/main.30edf3b1.chunk.css.map": "/Hulu-Bharath/static/css/main.30edf3b1.chunk.css.map",
+    "static/js/2.8b9e511e.chunk.js.LICENSE.txt": "/Hulu-Bharath/static/js/2.8b9e511e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.992440af.js",
+    "static/js/2.8b9e511e.chunk.js",
+    "static/css/main.30edf3b1.chunk.css",
+    "static/js/main.f79c65a5.chunk.js"
+  ]
+}
